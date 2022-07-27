@@ -11,3 +11,7 @@ Tech and tools
 * JS
 * Bootstrap
 * Nodejs
+
+Screenshots
+* Homepage
+![homepage](https://user-images.githubusercontent.com/51254100/181272903-2dca8725-8d5d-4bdc-9436-27ee2fd7f692.png)
